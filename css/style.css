@@ -45,6 +45,7 @@ header nav a.active {
 	font-weight: normal;
 	line-height: 1.2;
 	margin-bottom: 40px;
+	color:red;
 }
 #home .divider{
 	width: 80px;
